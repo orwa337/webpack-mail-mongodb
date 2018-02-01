@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	background-color: #ffffff;
+}
+
+#root {
+	margin: auto; 
+	max-width: 300px;
+}
